@@ -1,0 +1,15 @@
+{
+  "name": "residency-notes",
+  "version": "0.1.0",
+  "description": "规培笔记——中国住院医师的临床速查知识库",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev src",
+    "docs:build": "vitepress build src",
+    "docs:preview": "vitepress preview src"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.0"
+  },
+  "license": "CC-BY-NC-SA-4.0"
+}
