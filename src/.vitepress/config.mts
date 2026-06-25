@@ -31,6 +31,7 @@ export default defineConfig({
       { text: '考试晋升', link: '/exams/' },
       { text: '术后并发症', link: '/postop/' },
       { text: '临床基础处理', link: '/clinical-management/' },
+      { text: '社区', link: '/community/' },
       { text: '关于', link: '/about' },
     ],
 
@@ -178,6 +179,14 @@ export default defineConfig({
             { text: '伤口裂开', link: '/postop/wound-dehiscence' },
             { text: '术后肺部并发症', link: '/postop/pulmonary-complications' },
             { text: '术后尿潴留', link: '/postop/urinary-retention' },
+          ]
+        }
+      ],
+      '/community/': [
+        {
+          text: '社区',
+          items: [
+            { text: '社区首页', link: '/community/' },
           ]
         }
       ],

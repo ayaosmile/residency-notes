@@ -45,6 +45,10 @@ features:
     title: 临床基础处理
     details: 补液、电解质、休克、血糖、AKI、营养、疼痛、谵妄、输血——基本处理原则。
     link: /clinical-management/
+  - icon: 💬
+    title: 社区交流
+    details: 分享临床经验、讨论匿名病例、同行互助——你不是一个人在值班。
+    link: /community/
 ---
 
 ## 内容统计
