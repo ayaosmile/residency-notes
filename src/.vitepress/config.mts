@@ -184,7 +184,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com' }
+      { icon: 'github', link: 'https://github.com/ayaosmile/residency-notes' }
     ],
 
     footer: {
@@ -193,7 +193,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/your-username/residency-notes/edit/main/src/:path',
+      pattern: 'https://github.com/ayaosmile/residency-notes/edit/main/src/:path',
       text: '在 GitHub 上编辑此页'
     },
 
