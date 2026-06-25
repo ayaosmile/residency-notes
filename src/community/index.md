@@ -24,12 +24,12 @@ comment: false
 
 更长的分享——病例讨论、经验总结、心情故事——推荐到 [GitHub Discussions](https://github.com/ayaosmile/residency-notes/discussions) 发帖。
 
-| 分类 | 内容 | 适合 |
-|------|------|------|
-| 💬🩺 **经验与病例** | 匿名化病例讨论、诊断思路、处理心得——以教学为目的，不从具体患者出发 | 有病例想分享的临床医师 |
-| ☕ **医路生活** | 规培日常、工作感悟、同行鼓励——这里是你能被理解的地方 | 每一位在临床路上的同行者 |
-| ❓ **提问求助** | 临床问题求助、知识库未覆盖的盲区——你不懂的，别人可能恰好经历过 | 遇到临床困惑时 |
-| 🔧 **反馈与纠错** | 内容纠错、过时信息更新、新增内容建议——帮我们一起维护这个知识库 | 发现知识卡片中的问题时 |
+| 分类 | 直达链接 | 适合 |
+|------|---------|------|
+| 💬🩺 **经验与病例** | [查看](https://github.com/ayaosmile/residency-notes/discussions/categories/%E7%BB%8F%E9%AA%8C%E4%B8%8E%E7%97%85%E4%BE%8B) · [发帖](https://github.com/ayaosmile/residency-notes/discussions/new?category=%E7%BB%8F%E9%AA%8C%E4%B8%8E%E7%97%85%E4%BE%8B) | 匿名化病例讨论、诊断思路、处理心得 |
+| ☕ **医路生活** | [查看](https://github.com/ayaosmile/residency-notes/discussions/categories/%E5%8C%BB%E8%B7%AF%E7%94%9F%E6%B4%BB) · [发帖](https://github.com/ayaosmile/residency-notes/discussions/new?category=%E5%8C%BB%E8%B7%AF%E7%94%9F%E6%B4%BB) | 规培日常、工作感悟、同行鼓励 |
+| ❓ **提问求助** | [查看](https://github.com/ayaosmile/residency-notes/discussions/categories/%E6%8F%90%E9%97%AE%E6%B1%82%E5%8A%A9) · [发帖](https://github.com/ayaosmile/residency-notes/discussions/new?category=%E6%8F%90%E9%97%AE%E6%B1%82%E5%8A%A9) | 临床问题求助、知识库未覆盖的盲区 |
+| 🔧 **反馈与纠错** | [查看](https://github.com/ayaosmile/residency-notes/discussions/categories/%E5%8F%8D%E9%A6%88%E4%B8%8E%E7%BA%A0%E9%94%99) · [发帖](https://github.com/ayaosmile/residency-notes/discussions/new?category=%E5%8F%8D%E9%A6%88%E4%B8%8E%E7%BA%A0%E9%94%99) | 内容纠错、过时信息更新、新增内容建议 |
 
 ::: tip 如何发帖
 1. 打开 [GitHub Discussions](https://github.com/ayaosmile/residency-notes/discussions)
